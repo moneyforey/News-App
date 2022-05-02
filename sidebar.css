@@ -1,0 +1,9 @@
+#sidebar>#country>h3{
+    background-color: teal;
+}
+
+#sidebar{
+    
+    width: 100px;
+    text-align: center;
+}
